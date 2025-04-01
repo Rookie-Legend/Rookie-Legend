@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 
 
+Entering the world of coding as a newbie. Hope to add more branches.
 <!--
 **Rookie-Legend/Rookie-Legend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
